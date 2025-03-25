@@ -46,7 +46,8 @@ Thanks for stopping by! Let's build something great together. 🚀
 
 <table>
   <tr>
-    <td><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyGlitchStudio&layout=compact&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyGlitchStudio&layout=compact&count_private=true&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b"/>
+</td>
     <td><img width="450" src="https://github-readme-stats.vercel.app/api?username=TinyGlitchStudio&count_private=false&show_icons=true&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b"/></td>
   </tr>
 </table>
