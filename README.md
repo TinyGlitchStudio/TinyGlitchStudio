@@ -44,11 +44,12 @@ Thanks for stopping by! Let's build something great together. 🚀
 
 <div align="center" padding: 20px; border-radius: 10px;">
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyGlitchStudio&layout=compact&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b"/>
-
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=TinyGlitchStudio&count_private=false&show_icons=true&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b" />  
-  </div>
+<table>
+  <tr>
+    <td><img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyGlitchStudio&layout=compact&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b"/></td>
+    <td><img width="450" src="https://github-readme-stats.vercel.app/api?username=TinyGlitchStudio&count_private=false&show_icons=true&theme=dark&title_color=ff46ff&text_color=00ff00&icon_color=f9ff7d&bg_color=09131b"/></td>
+  </tr>
+</table>
 
   <img width="600" src="https://streak-stats.demolab.com/?user=TinyGlitchStudio&theme=dark&hide_border=true&ring=00d9ff&fire=ff46ff&currStreakLabel=f9ff7d&background=09131b"/>
   
